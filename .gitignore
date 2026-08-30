@@ -3,3 +3,4 @@ dist
 .env
 .DS_Store
 .vscode
+public/assets/reels/video-reel.mp4
